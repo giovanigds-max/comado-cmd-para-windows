@@ -1,3 +1,6 @@
+nome: giovani domingues de campos
+data entrega:20/09/25
+email: giovani_gds@hotmail.com
 
   Aqui estão cinco comandos do CMD essenciais para a manutenção de hardware no Windows. Eles ajudam a diagnosticar, verificar e otimizar o desempenho dos seus componentes.
 
@@ -56,4 +59,7 @@ Quem o criou? (Autoria)
 
 Qual a licença de uso? (Licenciamento)
 
-Em resumo, ele é o cartão de visitas do seu código, ajudando desenvolvedores, usuários ou colaboradores em potencial a entenderem e interagirem com o projeto de forma eficiente.
+Em resumo, ele é o cartão de visitas do seu código, ajudando desenvolvedores, usuários ou colaboradores em potencial a entenderem e interagirem com o projeto de forma eficiente. 
+
+Apredi os comando  cmd para reparos do pc 
+
